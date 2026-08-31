@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://isidoraantovich.com/sitemap.xml
